@@ -1,0 +1,67 @@
+[
+        {
+            "title": "Product 01",
+            "price": 500,
+            "images": {
+                "public_id": "ecommerce/e3vhaofkv2vz5tgkefbc",
+                "url": "https://res.cloudinary.com/djamk74m7/image/upload/v1641473112/ecommerce/61kTgdHQXZL._AC_UX466__svutnv.jpg"
+            },
+	    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec gravida sit amet velit quis auctor. Curabitur interdum nunc eget nisl tincidunt lacinia. Suspendisse aliquet dui ac tellus suscipit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut imperdiet augue fringilla ultricies gravida. Aenean et libero lorem. Vestibulum quam lacus, egestas ut venenatis vitae, interdum a lorem. Sed at arcu sed nisi placerat ultrices. Aliquam tempor feugiat porta. Nam vitae tempus nisi. Nulla sodales ultricies viverra. Quisque varius metus feugiat, convallis ipsum luctus, egestas augue.",
+	    "numReviews": 0,
+	    "rating": 0
+        },
+        {
+            "title": "Product 02",
+            "price": 150,
+            "images": {
+                "public_id": "ecommerce/jem9lo7aze10yxjermku",
+                "url": "https://res.cloudinary.com/djamk74m7/image/upload/v1641469435/ecommerce/-nh100-10-_njiqvr.jpg"
+            },
+	    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec gravida sit amet velit quis auctor. Curabitur interdum nunc eget nisl tincidunt lacinia. Suspendisse aliquet dui ac tellus suscipit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut imperdiet augue fringilla ultricies gravida. Aenean et libero lorem. Vestibulum quam lacus, egestas ut venenatis vitae, interdum a lorem. Sed at arcu sed nisi placerat ultrices. Aliquam tempor feugiat porta. Nam vitae tempus nisi. Nulla sodales ultricies viverra. Quisque varius metus feugiat, convallis ipsum luctus, egestas augue.",
+	    "numReviews": 0,
+	    "rating": 0
+        },
+	{
+            "title": "Product 03",
+            "price": 100,
+            "images": {
+                "public_id": "test/yps6zv8so5kptujw5ewp",
+        	"url": "https://res.cloudinary.com/djamk74m7/image/upload/v1641473106/ecommerce/download_2_zjaq93.jpg"
+            },
+	    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec gravida sit amet velit quis auctor. Curabitur interdum nunc eget nisl tincidunt lacinia. Suspendisse aliquet dui ac tellus suscipit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut imperdiet augue fringilla ultricies gravida. Aenean et libero lorem. Vestibulum quam lacus, egestas ut venenatis vitae, interdum a lorem. Sed at arcu sed nisi placerat ultrices. Aliquam tempor feugiat porta. Nam vitae tempus nisi. Nulla sodales ultricies viverra. Quisque varius metus feugiat, convallis ipsum luctus, egestas augue.",
+	    "numReviews": 0,
+	    "rating": 0
+        },
+        {
+            "title": "Product 04",
+            "price": 340,
+            "images": {
+                "public_id": "test/jj4uxisewgzs87ojemij",
+        	"url": "https://res.cloudinary.com/djamk74m7/image/upload/v1641473099/ecommerce/images_3_pe9q49.jpg"
+            },
+	    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec gravida sit amet velit quis auctor. Curabitur interdum nunc eget nisl tincidunt lacinia. Suspendisse aliquet dui ac tellus suscipit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut imperdiet augue fringilla ultricies gravida. Aenean et libero lorem. Vestibulum quam lacus, egestas ut venenatis vitae, interdum a lorem. Sed at arcu sed nisi placerat ultrices. Aliquam tempor feugiat porta. Nam vitae tempus nisi. Nulla sodales ultricies viverra. Quisque varius metus feugiat, convallis ipsum luctus, egestas augue.",
+            "numReviews": 0,
+	    "rating": 0
+        },{
+            "title": "Product 05",
+            "price": 500,
+            "images": {
+                "public_id": "ecommerce/e3vhaofkv2vz5tgkefbc",
+                "url": "https://res.cloudinary.com/djamk74m7/image/upload/v1641469437/ecommerce/Multifunction-Crossbody-Bags-Men-USB-Charging-Chest-Pack-Short-Trip-Messengers-Chest-Bag-Water-Repellent-Shoulder_sofezo.jpg"
+            },
+	    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec gravida sit amet velit quis auctor. Curabitur interdum nunc eget nisl tincidunt lacinia. Suspendisse aliquet dui ac tellus suscipit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut imperdiet augue fringilla ultricies gravida. Aenean et libero lorem. Vestibulum quam lacus, egestas ut venenatis vitae, interdum a lorem. Sed at arcu sed nisi placerat ultrices. Aliquam tempor feugiat porta. Nam vitae tempus nisi. Nulla sodales ultricies viverra. Quisque varius metus feugiat, convallis ipsum luctus, egestas augue.",
+	    "numReviews": 0,
+	    "rating": 0
+        },{
+            "title": "Product 06",
+            "price": 500,
+            "images": {
+                "public_id": "ecommerce/e3vhaofkv2vz5tgkefbc",
+                "url": "https://res.cloudinary.com/djamk74m7/image/upload/v1641469444/ecommerce/41_JKxL5kKL._AC_SY350__sanrvx.jpg"
+            },
+	    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec gravida sit amet velit quis auctor. Curabitur interdum nunc eget nisl tincidunt lacinia. Suspendisse aliquet dui ac tellus suscipit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut imperdiet augue fringilla ultricies gravida. Aenean et libero lorem. Vestibulum quam lacus, egestas ut venenatis vitae, interdum a lorem. Sed at arcu sed nisi placerat ultrices. Aliquam tempor feugiat porta. Nam vitae tempus nisi. Nulla sodales ultricies viverra. Quisque varius metus feugiat, convallis ipsum luctus, egestas augue.",
+	    "numReviews": 0,
+	    "rating": 0
+        }
+
+]
